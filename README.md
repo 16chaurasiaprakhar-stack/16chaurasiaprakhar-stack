@@ -14,7 +14,7 @@ Building practical skills across Verilog, synthesis, timing analysis, and physic
 </div>
 
 ---
-
+ 
 ## 🧑‍💻 About Me
 
 I'm a 3rd-year Electronics and Communication Engineering student with a strong interest in **VLSI design**, **RTL development**, and **digital hardware systems**. My focus areas include Verilog HDL, CMOS fundamentals, digital electronics, and the open-source EDA flow — from RTL all the way to GDSII.
