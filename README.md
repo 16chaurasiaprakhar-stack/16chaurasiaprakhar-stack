@@ -44,6 +44,7 @@ I believe in learning through hands-on projects, structured practice, and first-
 ![GTKWave](https://img.shields.io/badge/GTKWave-27AE60?style=for-the-badge&logoColor=white)
 ![Verilator](https://img.shields.io/badge/Verilator-F39C12?style=for-the-badge&logoColor=white)
 ![Sky130 PDK](https://img.shields.io/badge/Sky130_PDK-8E44AD?style=for-the-badge&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-2G4K90?style=for-the-badge&logoColor=white)
 
 ### Environment
 
