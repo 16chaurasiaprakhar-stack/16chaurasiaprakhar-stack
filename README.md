@@ -98,7 +98,6 @@ I believe in learning through hands-on projects, structured practice, and first-
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
@@ -108,18 +107,10 @@ I believe in learning through hands-on projects, structured practice, and first-
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top Languages" height="170"/>
 </picture>
-
 <br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=16chaurasiaprakhar-stack&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=16chaurasiaprakhar-stack&theme=default&hide_border=true" alt="GitHub Streak" />
-</picture>
-
+<img src="https://streak-stats.demolab.com/?user=16chaurasiaprakhar-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=16chaurasiaprakhar-stack&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-
 </div>
 
 ---
