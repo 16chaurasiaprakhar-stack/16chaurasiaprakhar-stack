@@ -13,7 +13,7 @@ Building practical skills across Verilog, synthesis, timing analysis, and physic
 
 </div>
 
----
+--- 
  
 ## 🧑‍💻 About Me
 
