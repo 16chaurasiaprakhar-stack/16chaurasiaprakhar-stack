@@ -106,7 +106,7 @@ I believe in learning through hands-on projects, structured practice, and first-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top Languages" height="170"/>
-</picture>
+</picture> 
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=16chaurasiaprakhar-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/><br/> 
