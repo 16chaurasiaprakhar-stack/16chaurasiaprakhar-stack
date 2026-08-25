@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey there, I'm Prakhar Chaurasia 👋
+# Hey there, I'm Prakhar Chaurasia 👋 
 
 **Electronics & Communication Engineering · VLSI · RTL Design · Digital Hardware**
 
