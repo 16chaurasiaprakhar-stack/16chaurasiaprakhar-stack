@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey there, I'm Prakhar Chaurasia 👋 
+# Hey there, I'm Prakhar Chaurasia 👋   
 
 **Electronics & Communication Engineering · VLSI · RTL Design · Digital Hardware**
 
@@ -29,7 +29,7 @@ I believe in learning through hands-on projects, structured practice, and first-
 
 ![Verilog](https://img.shields.io/badge/Verilog_HDL-FF6F00?style=for-the-badge&logo=verilog&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
