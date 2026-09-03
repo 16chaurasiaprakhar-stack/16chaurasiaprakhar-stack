@@ -102,6 +102,7 @@ I believe in learning through hands-on projects, structured practice, and first-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+ 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
 </picture>
 &nbsp;&nbsp;
