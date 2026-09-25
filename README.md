@@ -2,7 +2,7 @@
  
 # Hey there, I'm Prakhar Chaurasia 👋   
 
-**Electronics & Communication Engineering · VLSI · RTL Design · Digital Hardware**
+**Electronics & Communication Engineering · VLSI · RTL Design · Digital Hardware** 
 
 ECE student focused on VLSI, RTL design, and open-source ASIC flow.  
 Building practical skills across Verilog, synthesis, timing analysis, and physical design.
