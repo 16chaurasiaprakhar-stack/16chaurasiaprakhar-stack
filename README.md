@@ -112,7 +112,7 @@ I believe in learning through hands-on projects, structured practice, and first-
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=16chaurasiaprakhar-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/><br/> 
-<img src="https://ghchart.rshah.org/70a5fd/16chaurasiaprakhar-stack" alt="Contribution Graph" width="95%"/>
+<img src="https://github-activity-chart.vercel.app/graph?username=16chaurasiaprakhar-stack&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
