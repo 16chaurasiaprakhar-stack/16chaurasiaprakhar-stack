@@ -101,19 +101,18 @@ I believe in learning through hands-on projects, structured practice, and first-
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
- 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=16chaurasiaprakhar-stack&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="175"/>
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top Languages" height="170"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16chaurasiaprakhar-stack&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="175"/>
 </picture> 
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=16chaurasiaprakhar-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/><br/> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=16chaurasiaprakhar-stack&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+<img src="https://ghchart.rshah.org/70a5fd/16chaurasiaprakhar-stack" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
